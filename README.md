@@ -1,5 +1,7 @@
 Hito 5 - Pizzería Mamma Mía 🍕
 
+* Link Desafío: https://hito-5-pizzeria-mamma-4gsvssocm-study-latam.vercel.app/
+
 * Este proyecto corresponde al Hito 5 de la Academia Desafío Latam, en el cual se implementa el sistema de enrutamiento del proyecto Pizzería Mamma Mía utilizando la librería React Router (v6+).
 
 📋 Descripción del Proyecto
@@ -32,12 +34,12 @@ Configuración de Rutas - Definición de las siguientes rutas principales:
 
 Componente NotFound (404) (2 pts)
 Página personalizada para errores 404.
-Incluye un enlace (<Link>) que permite al usuario regresar a la ruta raíz /.
+Incluye un enlace que permite al usuario regresar a la ruta raíz /.
 Componente Profile (1 pt)
 Muestra la información de un usuario estático (email).
 Incluye un botón para cerrar sesión (logout).
 Componente Navbar (2 pts)
-Implementación de enlaces de navegación mediante el componente <Link> de react-router-dom.
+Implementación de enlaces de navegación mediante el componente de react-router-dom.
 Redirección del botón "🛒 Total: $xxx" hacia la ruta /cart.
 
 🛠️ Tecnologías Utilizadas
@@ -47,7 +49,7 @@ CSS / Bootstrap / Tailwind (según el framework UI configurado en el proyecto)
 
 🔧 Instalación y Ejecución
 Clonar el repositorio:
-git clone <URL_DEL_REPOSITORIO>
+git clone 
 cd pizzeria-mamma-mia
 
 
